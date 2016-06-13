@@ -1,0 +1,7 @@
+﻿  Basketball_Rogers.cpp
+c:\users\chris rogers\documents\visual studio 2015\projects\basketballoop_rogers\basketballoop_rogers\basketball_rogers.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\chris rogers\documents\visual studio 2015\projects\basketballoop_rogers\basketballoop_rogers\basketball_rogers.h(63): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\chris rogers\documents\visual studio 2015\projects\basketballoop_rogers\basketballoop_rogers\basketball_rogers.h(66): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\chris rogers\documents\visual studio 2015\projects\basketballoop_rogers\basketballoop_rogers\basketball_rogers.cpp(13): warning C4101: 'team1points': unreferenced local variable
+c:\users\chris rogers\documents\visual studio 2015\projects\basketballoop_rogers\basketballoop_rogers\basketball_rogers.h(70): warning C4715: 'Player::shotpct': not all control paths return a value
+  BasketballOOP_Rogers.vcxproj -> C:\Users\Chris Rogers\documents\visual studio 2015\Projects\BasketballOOP_Rogers\Debug\BasketballOOP_Rogers.exe
